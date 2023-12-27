@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm a software developer based in Auckland, New Zealand. 
-👨‍🔧 Previously I worked as a mechanical technician at Toyota before making the switch to tech.  
-📌 Pinned to my profile is a selection of projects I have worked on while at Dev Academy in 2023. 
-👨‍💻 Tech excites me as an ever-changing landscape and I'm always looking for new technology to learn.
-🔭 I’m currently working on a web based synthesiser useing midi and the web audio API. 
-🧬 When I'm not coding I'm experimenting with music software and researching music technology. 
+## I'm a software developer based in Auckland, New Zealand. 
+## 👨‍🔧 Previously I worked as a mechanical technician at Toyota before making the switch to tech.  
+## 📌 Pinned to my profile is a selection of projects I have worked on while at Dev Academy in 2023. 
+## 👨‍💻 Tech excites me as an ever-changing landscape and I'm always looking for new technology to learn.
+## 🔭 I’m currently working on a web based synthesiser useing midi and the web audio API. 
+## 🧬 When I'm not coding I'm experimenting with music software and researching music technology. 
 
 Linkedin: https://www.linkedin.com/in/xavier-kirkpatrick-ab0aba2a3
 <!--
