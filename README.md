@@ -8,7 +8,7 @@
 
 👨‍💻 Tech excites me as an ever-changing landscape and I'm always looking for new technology to learn.
 
-🔭 I’m currently working on a web based synthesiser useing midi and the web audio API. 
+🔭 I’m currently working on a web based synthesiser using midi and the web audio API. 
 
 🧬 When I'm not coding I'm experimenting with music software and researching music technology. 
 
