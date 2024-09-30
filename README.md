@@ -4,11 +4,11 @@
 
 👨‍🔧 Previously I worked as a mechanical technician at Toyota before making the switch to tech.  
 
-📌 Pinned to my profile is a selection of projects I have worked on while at Dev Academy in 2023. 
+📌 Pinned to my profile is a selection of projects I have worked on while at studying in 2023. 
 
 👨‍💻 Tech excites me as an ever-changing landscape and I'm always looking for new technology to learn.
 
-🔭 I’m currently working on a web based synthesiser using midi and the web audio API. 
+🔭 I’m currently working on my personal web presence and portfolio to continue learning new technologies and enhance my programming ability. 
 
 🧬 When I'm not coding I'm experimenting with music software and researching music technology. 
 
